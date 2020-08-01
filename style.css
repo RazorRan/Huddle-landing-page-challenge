@@ -86,7 +86,6 @@ footer {
 
 .icons {
   margin: 25px;
-  cursor: pointer;
   text-decoration: none;
   color: white;
 }
@@ -95,18 +94,21 @@ footer {
   position: absolute;
   bottom: 15px;
   right: 250px;
+  cursor: pointer;
 }
 
 .circi {
   position: absolute;
   bottom: 15px;
   right: 183px;
+  cursor: pointer;
 }
 
 .circt {
   position: absolute;
   bottom: 15px;
   right: 114px;
+  cursor: pointer;
 }
 
 @media (max-width: 1080px) {
